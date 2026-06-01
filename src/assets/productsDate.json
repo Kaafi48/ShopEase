@@ -1,0 +1,62 @@
+ [
+        {
+          "id": 162,
+          "name": "Blue Frock",
+          "price": 29.99,
+          "desc": "A stylish blue frock perfect for any occasion.",
+          "stok": 119,
+          "category":"clothing",
+           "rating": 3.3,
+          "image": "https://imgs.search.brave.com/xCYensKsH5Aw7UGeV6KwjHjdn_63-Je9E-PMe04QwH0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNTQv/NTg4Lzc2Ni9zbWFs/bC9hLWNvbGxlY3Rp/b24tb2YtY29zbWV0/aWMtcHJvZHVjdHMt/b24tYS1waW5rLXRh/YmxlLWZyZWUtcGhv/dG8uanBn"
+        },
+        {
+          "id": 113,
+          "name": "Generic Motorcycle",
+          "price": 3999.99,
+          "desc": "A generic motorcycle for all your transportation needs.",
+          "stok": 19,
+          "category":"motorcycle",
+          "rating": 4.5,
+          "image": "https://imgs.search.brave.com/l3AGRlBpLjeZlL_ZyH0VlqgVPm85hpnflAWfb88NGXY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNzIv/Njg2Lzk4NS9zbWFs/bC9lYXJ0aHktdG9u/ZXMtc2tpbmNhcmUt/cHJvZHVjdC1kaXNw/bGF5LXdpdGgtbmF0/dXJhbC10ZXh0dXJl/cy1pbi1taW5pbWFs/aXN0LWRlc2lnbi1w/aG90by5qcGc"
+        },
+        {
+          "id": 122,
+          "name": "iPhone 6",
+          "price": 299.99,
+           "desc": "A sleek smartphone with a powerful processor.",
+          "stok": 33,
+          "category":"smartphone",
+          "rating": 5.3,
+          "image": "https://imgs.search.brave.com/caWeLwg5r0WVArs_8yxg-Vc1M2IpnC_46fhrGYhpZyU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNjYv/NTYxLzUwMS9zbWFs/bC9hLXZhcmlldHkt/b2YtcHJvZHVjdHMt/aW5jbHVkaW5nLWhl/cmJzLWNpdHJ1cy1h/bmQtZmxvd2Vycy1w/aG90by5qcGc"
+        },
+        {
+          "id": 138,
+          "name": "Baseball Ball",
+          "price": 8.99,
+          "desc": "A classic baseball for all your games.",
+          "stok": 17,
+          "category":"sports",
+          "rating": 1.3,
+          "image": "https://imgs.search.brave.com/gA4Fx99cnrkmmlr9TUBGLo4coV5m4WW8Uv5s2ja0K4o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNjgv/OTc2Lzc4OS9zbWFs/bC9uYXR1cmFsLWxh/dmVuZGVyLXNraW4t/Y2FyZS1wcm9kdWN0/cy1hcnJhbmdlbWVu/dC1mcmVlLXBob3Rv/LmpwZw"
+        },
+        {
+          "id": 38,
+          "name": "Baseball Cap",
+          "price": 1.99,
+          "desc": "yA trendy baseball cap to complete your look.",
+          "stok": 7,
+          "category":"Food",
+          "rating": 2.5,
+          "image": "https://imgs.search.brave.com/Q4S9P1-myzy8DlgYtSXDFODvVJ1q-jKxBLC7X8gNJwI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNzAv/OTc3LzQyMy9zbWFs/bC9hLWRpc3BsYXkt/b2YtYmVhdXR5LXBy/b2R1Y3RzLWluLWEt/cm9vbS1waG90by5q/cGc"
+        },
+        {
+          "id": 8,
+          "name": " Cap",
+          "price": 6.99,
+          "desc": "A sleek smartphone with a powerful processor.",
+          "stok": 3,
+          "category":"grocery",
+          "rating": 5.3,
+          "image": "https://imgs.search.brave.com/VB9oXSJtz62KCGgYzENOr2kO-ve0bMvO0mc7tt537a4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNjgv/ODY4LzY5Ni9zbWFs/bC9hLWNvbGxlY3Rp/b24tb2YtbWFrZXVw/LXByb2R1Y3RzLWFu/ZC1icnVzaGVzLWFy/cmFuZ2VkLXdpdGgt/c2hhZG93cy1waG90/by5qcGc"
+        }
+      ]
