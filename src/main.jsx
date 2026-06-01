@@ -18,7 +18,7 @@ const routerProvider = createBrowserRouter([
     children: [
      {
       index : true,
-      element: <Cart />,
+      element: <Products />,
      },
 
        {
